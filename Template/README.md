@@ -4,8 +4,6 @@
 
 ## Example
 
-Input:
-Output:
+Input: `\ Output:`\
 
-Input:
-Output:
+Input: `\ Output:`\
