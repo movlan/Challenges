@@ -40,6 +40,6 @@ function solution(N) {
   return max;
 }
 
-console.log(solution(9));
-console.log(solution(529));
-console.log(solution(32));
+console.log(solution(1041));
+// console.log(solution(529));
+// console.log(solution(32));
